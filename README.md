@@ -1,9 +1,8 @@
 # :clipboard: CLibs
 
 # :mag: check out docs for sdl_bgi lib
-```
-https://sdl-bgi.sourceforge.io/#samples
-```
+https://sdl-bgi.sourceforge.io/#samples   
+#
 
 # :art: Graphics.h install in linux for debian user 
 ```bash
